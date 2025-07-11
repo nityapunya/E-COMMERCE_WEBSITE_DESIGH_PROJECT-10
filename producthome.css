@@ -31,3 +31,7 @@ header
     padding: 10px;
     margin: 5px;
 }
+.cd img
+{
+    max-width: 100%;
+}
