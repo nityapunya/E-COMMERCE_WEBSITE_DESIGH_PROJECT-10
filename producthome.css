@@ -30,8 +30,14 @@ header
     background-color: #f5f5f5;
     padding: 10px;
     margin: 5px;
+    text-align: center;
 }
 .cd img
 {
     max-width: 100%;
+}
+.cd a
+{
+    text-decoration: none;
+    color: green;
 }
