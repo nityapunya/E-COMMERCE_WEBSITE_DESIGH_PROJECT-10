@@ -23,3 +23,11 @@ header
     justify-content: center;
     margin-bottom: 5%;
 }
+.cd
+{
+    border: 0.5px solid gray;
+    width: 170px;
+    background-color: #f5f5f5;
+    padding: 10px;
+    margin: 5px;
+}
